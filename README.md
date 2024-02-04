@@ -30,6 +30,10 @@ Soy estudiante de la Universidad Tecnológica de El Salvador y un apasionado des
 [cloud60](https://gitlab.com/luisarrabi/cloud60)
 [PosLaravel](https://gitlab.com/luisarrabi/poslaravel)
 
+- **Tecniseguros**: Tecniseguros es una compañía de corredores de seguros que brinda soluciones a clientes corporativos e individuales en El Salvador, Guatemala, Honduras, Nicaragua y Costa Rica. Ofrecen asesoría y administración de pólizas, y trabajan con todas las aseguradoras del país. Además, la compañía tiene certificación del sistema de gestión de calidad.
+
+[PortalTS](https://gitlab.com/luisarrabi/PortalTS)
+
 ## Grados académicos y reconocimientos
 
 - Título de Bachillerato General brindado por el Colegio Lamatepec en el año 2020.
