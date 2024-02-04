@@ -44,8 +44,10 @@ Soy estudiante de la Universidad Tecnológica de El Salvador y un apasionado des
 Si quieres colaborar en un proyecto o simplemente charlar, no dudes en contactarme:
 
 - 📧 Correo electrónico: <yamagiwacuellar@gmail.com>
-- 💼 LinkedIn: Ignacio Yamagiwa Cuéllar
-- 📷 Instagram: @yamagiwacuellar
-- 🐦 Twitter: @yamagiwacuellar
+- 💼 LinkedIn: [Ignacio Yamagiwa Cuéllar](https://www.linkedin.com/in/yamagiwacuellar)
+- 📷 Instagram: [@yamagiwacuellar](https://www.instagram.com/yamagiwacuellar)
+- 🐦 Twitter: [@yamagiwacuellar](https://twitter.com/yamagiwacuellar)
+- 🅵 Facebook: [@ignacioyamagiwacuellar](https://www.facebook.com/ignacioyamagiwacuellar)
+- 🦝 Gitlab: [@yamagiwacuellar](https://gitlab.com/yamagiwacuellar)
 
 ¡Gracias por visitar mi perfil de GitHub!
